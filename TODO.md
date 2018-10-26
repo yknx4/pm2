@@ -1,0 +1,1 @@
+- [ ] pm2.start({ CONF }, (err, apps, bus) => { bus.on('log:**')
